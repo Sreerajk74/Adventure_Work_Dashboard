@@ -1,4 +1,4 @@
-# Adventure_Work_Dashboard
+# Adventure_Works_Dashboard
 
 🎯Objective: To contribute to business success by building a comprehensive Power BI dashboard, “Adventure Works Sales Performance,” focused on providing actionable insights into sales, customer behaviour, and product trends for informed decision-making.
 
